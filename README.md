@@ -121,3 +121,6 @@
 -  OpenGL编程指南
 -  汽车仪表盘设计规范
 -  Google DeepMind MuJoCo MPC源代码
+-  
+## 开源地址
+https://github.com/167648384/-MuJoCo-MPC-
