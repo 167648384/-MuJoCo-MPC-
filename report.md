@@ -578,9 +578,8 @@ float temp_height = 20;                     // 温度表高度
 - 内存占用：程序运行期间内存占用稳定在约850 MB，无内存泄漏（通过Valgrind验证）。
 
 ### 5.3 效果展示
-- 截图：
 
-- 视频链接：
+- 视频链接：https://github.com/167648384/-MuJoCo-MPC-/tree/main/videos
 
 ## 六、总结与展望
 ### 6.1 学习收获
